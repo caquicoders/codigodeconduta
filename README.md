@@ -27,6 +27,7 @@ Comunidade de tecnologia que foi criada em agosto de 2017 e que atualmente é or
 * Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes; 
 * Nós evitamos tópicos ofensivos como forma de humor; 
 * Nós evitamos tópicos que fogem ao escopo do grupo, como conteúdo político; 
+* Não utilizará o nome da comunidade, o trabalho, os projetos e os eventos da comunidade, o nome dos membros e os organizadores da comunidade de forma comercial;
 * Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado, salvo ações que sejam divulgadas pelo time oficial da CaquiCoders, como inscrições para novos cursos e/ou eventos movidos para comunidade, pois garantimos a privacidade de seus dados. 
 
 **Boas práticas:** 
