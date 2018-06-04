@@ -76,3 +76,4 @@ Este Código de Conduta foi gerado com base naqueles que são utilizados por mui
 * https://github.com/AndroidStudyGroup/Code-Of-Conduct 
 * https://github.com/AndroidDevBR/Codigo-De-Conduta 
 * https://rubyonrailsbrasil.com.br/codigo-de-conduta/ 
+* http://pt-br.confcodeofconduct.com/
