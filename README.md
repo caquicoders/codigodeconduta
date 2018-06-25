@@ -67,6 +67,7 @@ Este Código de Conduta é válido em qualquer um dos projetos ou eventos realiz
 * Grupo do Facebook: https://www.facebook.com/groups/134370293971573/ 
 * Meetup (Gerenciador de Eventos): https://www.meetup.com/pt-BR/CaquiCoders/ 
 * Grupo no WhatsApp: https://chat.whatsapp.com/B1Ip8dGaqQV8U6K41tbsMz 
+* Canal no Youtube: https://www.youtube.com/channel/UCop2ciGMvi-8yy4k6cXjCaA
 
 Este Código de Conduta foi gerado com base naqueles que são utilizados por muitas outras comunidades. Abaixo, seguem os links para consulta. 
 
