@@ -1,10 +1,10 @@
 **O que é Código de Conduta?**
 
-É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. Essas regras foram e continuarão sendo construídas ou editadas conforme necessidade e de acordo com o crescimento da comunidade, então poderão ser sempre consultadas. Esperamos que as regras sejam cumpridas e levadas a sério pela comunidade, assim como também estamos abertos a sugestões e críticas construtivas sobre elas quando for relevante. Ressaltamos que esse código será considerado pela comunidade em seus grupos e redes sociais, assim como todo e qualquer evento ou projeto organizado pela comunidade. 
+É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. Essas regras foram e continuarão sendo construídas ou editadas conforme necessidade e de acordo com o crescimento da comunidade, então poderão ser sempre consultadas. Esperamos que as regras sejam cumpridas e levadas a sério pela comunidade, assim como também estamos abertos a sugestões e críticas construtivas sobre elas quando for relevante. Ressaltamos que esse código será considerado pela comunidade em todos os seus grupos e em todas as redes sociais, assim como todo e qualquer evento ou projeto organizado pela comunidade. 
 
 **A Comunidade CaquiCoders**
 
-Comunidade de tecnologia que foi criada em agosto de 2017 e que atualmente é organizada por Alexandre Malavasi, Claudiney Junior, Lucas Santos e Morganna Giovanelli. Somos todos profissionais da área de tecnologia residentes na região do Alto Tietê de São Paulo. E essa comunidade de tecnologia foi criada para estudantes e profissionais da área de TI que queiram aprender e compartilhar conhecimento com todos na região. Nosso objetivo é realizar eventos que sejam totalmente gratuitos no Alto Tietê para estudantes, profissionais e todos aqueles que queiram aprender e compartilhar conhecimento, independentemente do nível de conhecimento, do sexo, da idade e de qualquer outra coisa, promovendo encontros para também expandir o networking que é tão importante nessa área. 
+CaquiCoders é uma comunidade de tecnologia que foi criada em agosto de 2017 por profissionais da área de tecnologia residentes na região do Alto Tietê de São Paulo. Em abril de 2018, a comunidade expandiu para a região do Vale do Paraíba de São Paulo. Nossa comunidade foi criada para estudantes e profissionais da área de TI que queiram aprender e compartilhar conhecimento com todos na região. Nosso objetivo é realizar eventos que sejam totalmente gratuitos para estudantes, profissionais e todos aqueles que queiram aprender e compartilhar conhecimento, independentemente do nível de conhecimento, do sexo, da idade e de qualquer outra coisa, promovendo encontros para também expandir o networking que é tão importante nessa área.
 
 **Código de Conduta**
 
@@ -32,7 +32,7 @@ Comunidade de tecnologia que foi criada em agosto de 2017 e que atualmente é or
 
 **Boas práticas:** 
 * Respeite as pessoas, independentemente de quem sejam; 
-* Seja gentil. Todos começamos cheios de dúvidas, então vamos ajudar e orientar aqueles que estão no início ou em qualquer outro momento de estudo ou de carreira; 
+* Seja gentil. Todos começamos cheios de dúvidas, então vamos ajudar e orientar aqueles que estão no início ou em qualquer outro momento de estudo ou de carreira, independente do nível; 
 * Faça críticas construtivas, se necessário. Não use palavras para ofender ou destruir alguém. A ideia é crescermos juntos e não o contrário; 
 * Seja curioso e busque por respostas também em outros meios de pesquisa. Há muitas formas de aprender, assim como também há muitas formas de compartilhar conhecimento; 
 * Evite discussões do tipo "tecnologia X é melhor que tecnologia Y". Cada tecnologia tem seu propósito e sua utilidade. Tenha bom senso em suas colocações e respeite as opiniões das outras pessoas. 
@@ -50,24 +50,28 @@ Comunidade de tecnologia que foi criada em agosto de 2017 e que atualmente é or
 
 **O desrespeito às regras desta comunidade, descritas nesse documento, acarretará consequências:**
 * Publicações que não estiverem de acordo com este Código de Conduta serão removidas; 
-* Cabe a organização da comunidade decidir se você será removido temporariamente ou permanentemente desta comunidade; 
+* Será feita uma primeira advertência verbal (quando for cabível), mas caso insista ou dependendo de suas ações, caberá a organização decidir se você será removido temporariamente ou permanentemente desta comunidade; 
 * Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um administrador. Se o administrador for a pessoa que você quer reportar, fale com outro administrador. 
 
-**Seguem os e-mails dos administradores da comunidade para contato:**
+**Seguem os e-mails dos administradores e moderadores da comunidade para contato:**
 * Alexandre Malavasi: alexandre.malavasi@caquicoders.com.br 
 * Claudiney Junior: claudiney.jr@caquicoders.com.br 
+* Douglas Romão: douglas.romao@caquicoders.com.br
 * Lucas Santos: lucas.silva@caquicoders.com.br 
 * Morganna Giovanelli: morganna.giovanelli@caquicoders.com.br 
+* Renato Romão: renato.romao@caquicoders.com.br
 
 A posição de administrador é para fins de organização da comunidade e moderação imparcial; eles não vão moderar ou editar o conteúdo postado pelos membros da comunidade para outras finalidades ou por motivos estritamente pessoais. 
 
 Este Código de Conduta é válido em qualquer um dos projetos ou eventos realizados pela comunidade e em todas as redes sociais oficiais da comunidade, sendo elas: 
 
 * Página do Facebook: https://www.facebook.com/caquicoders/
-* Grupo do Facebook: https://www.facebook.com/groups/134370293971573/ 
+* Grupo do Facebook: https://www.facebook.com/groups/caquicoders/
 * Meetup (Gerenciador de Eventos): https://www.meetup.com/pt-BR/CaquiCoders/ 
 * Grupo no WhatsApp: https://chat.whatsapp.com/B1Ip8dGaqQV8U6K41tbsMz 
 * Canal no Youtube: https://www.youtube.com/channel/UCop2ciGMvi-8yy4k6cXjCaA
+* Instagram: https://www.instagram.com/caquicoders/
+* Twitter: https://twitter.com/CaquiCoders/
 
 Este Código de Conduta foi gerado com base naqueles que são utilizados por muitas outras comunidades. Abaixo, seguem os links para consulta. 
 
