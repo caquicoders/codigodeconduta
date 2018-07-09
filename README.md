@@ -72,6 +72,8 @@ Este Código de Conduta é válido em qualquer um dos projetos ou eventos realiz
 * Canal no Youtube: https://www.youtube.com/channel/UCop2ciGMvi-8yy4k6cXjCaA
 * Instagram: https://www.instagram.com/caquicoders/
 * Twitter: https://twitter.com/CaquiCoders/
+* Github: https://github.com/caquicoders
+* LinkedIn: https://www.linkedin.com/company/caquicoders/
 
 Este Código de Conduta foi gerado com base naqueles que são utilizados por muitas outras comunidades. Abaixo, seguem os links para consulta. 
 
