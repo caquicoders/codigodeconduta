@@ -35,7 +35,8 @@ CaquiCoders é uma comunidade de tecnologia que foi criada em agosto de 2017 por
 * Seja gentil. Todos começamos cheios de dúvidas, então vamos ajudar e orientar aqueles que estão no início ou em qualquer outro momento de estudo ou de carreira, independente do nível; 
 * Faça críticas construtivas, se necessário. Não use palavras para ofender ou destruir alguém. A ideia é crescermos juntos e não o contrário; 
 * Seja curioso e busque por respostas também em outros meios de pesquisa. Há muitas formas de aprender, assim como também há muitas formas de compartilhar conhecimento; 
-* Evite discussões do tipo "tecnologia X é melhor que tecnologia Y". Cada tecnologia tem seu propósito e sua utilidade. Tenha bom senso em suas colocações e respeite as opiniões das outras pessoas. 
+* Evite discussões do tipo "tecnologia X é melhor que tecnologia Y". Cada tecnologia tem seu propósito e sua utilidade. Tenha bom senso em suas colocações e respeite as opiniões das outras pessoas;
+* Evite publicar em qualquer uma das redes sociais da comunidade, conteúdo que infrinja alguma licença ou direitos autorais.
 
 **Nós trabalhamos ativamente para:**  
 * Ser uma comunidade segura e agradável para todos; 
@@ -68,7 +69,6 @@ Este Código de Conduta é válido em qualquer um dos projetos ou eventos realiz
 * Página do Facebook: https://www.facebook.com/caquicoders/
 * Grupo do Facebook: https://www.facebook.com/groups/caquicoders/
 * Meetup (Gerenciador de Eventos): https://www.meetup.com/pt-BR/CaquiCoders/ 
-* Grupo no WhatsApp: https://chat.whatsapp.com/3kwhjWE2S834xvOSRbGXDT
 * Canal no Youtube: https://www.youtube.com/CaquiCoders
 * Instagram: https://www.instagram.com/caquicoders/
 * Twitter: https://twitter.com/CaquiCoders/
