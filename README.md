@@ -6,6 +6,10 @@
 
 CaquiCoders é uma comunidade de tecnologia que foi criada em agosto de 2017 por profissionais da área de tecnologia residentes na região do Alto Tietê de São Paulo. Em abril de 2018, a comunidade expandiu para a região do Vale do Paraíba de São Paulo. Nossa comunidade foi criada para estudantes e profissionais da área de TI que queiram aprender e compartilhar conhecimento com todos na região. Nosso objetivo é realizar eventos que sejam totalmente gratuitos para estudantes, profissionais e todos aqueles que queiram aprender e compartilhar conhecimento, independentemente do nível de conhecimento, do sexo, da idade e de qualquer outra coisa, promovendo encontros para também expandir o networking que é tão importante nessa área.
 
+**Quem foram os fundadores?**
+
+Os fundadores da comunidade CaquiCoders foram Claudiney Junior, Letícia Pedroso, Lucas Santos e Morganna Giovanelli. Foram a primeira equipe de organizadores da comunidade. Essa mesma equipe passou por algumas alterações no decorrer do tempo.
+
 **Código de Conduta**
 
 **A Comunidade CaquiCoders deve ser um lugar seguro e convidativo para pessoas independentemente de:** 
@@ -55,11 +59,14 @@ CaquiCoders é uma comunidade de tecnologia que foi criada em agosto de 2017 por
 * Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um administrador. Se o administrador for a pessoa que você quer reportar, fale com outro administrador. 
 
 **Seguem os e-mails dos administradores e moderadores da comunidade para contato:**
+
+**Região do Alto Tietê de São Paulo:**
 * Alexandre Malavasi: alexandre.malavasi@caquicoders.com.br 
-* Claudiney Junior: claudiney.jr@caquicoders.com.br 
-* Douglas Romão: douglas.romao@caquicoders.com.br
+* Claudiney Junior: claudiney.jr@caquicoders.com.br
 * Lucas Santos: lucas.silva@caquicoders.com.br 
-* Morganna Giovanelli: morganna.giovanelli@caquicoders.com.br 
+
+**Região do Vale do Paraíba de São Paulo:** 
+* Douglas Romão: douglas.romao@caquicoders.com.br
 * Renato Romão: renato.romao@caquicoders.com.br
 
 A posição de administrador é para fins de organização da comunidade e moderação imparcial; eles não vão moderar ou editar o conteúdo postado pelos membros da comunidade para outras finalidades ou por motivos estritamente pessoais. 
@@ -69,6 +76,7 @@ Este Código de Conduta é válido em qualquer um dos projetos ou eventos realiz
 * Página do Facebook: https://www.facebook.com/caquicoders/
 * Grupo do Facebook: https://www.facebook.com/groups/caquicoders/
 * Meetup (Gerenciador de Eventos): https://www.meetup.com/pt-BR/CaquiCoders/ 
+* Telegram: https://t.me/joinchat/J0O2HVKHKoJ3RSEhlb2Usw
 * Canal no Youtube: https://www.youtube.com/CaquiCoders
 * Instagram: https://www.instagram.com/caquicoders/
 * Twitter: https://twitter.com/CaquiCoders/
